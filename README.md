@@ -1,4 +1,4 @@
-# Inflearn_Java-Start
+# Inflearn_Java-200
 
 ## 프로젝트 개요
 
@@ -16,6 +16,7 @@
 
 1. 본 프로젝트를 GitHub에서 Clone 또는 Download합니다.
 2. Java Development Kit(JDK) 11 이상이 설치되어 있는지 확인합니다.
-3. 터미널 또는 IDE에서 다음 명령어를 실행하여 프로젝트를 빌드합니다.
 
-
+## 주요 기능
+* `src/...` 패키지 아래 각 문제에 해당하는 Java 클래스가 존재합니다.
+* 각 클래스는 `main()`메서드를 통해 문제의 해결 방법을 구현합니다.
